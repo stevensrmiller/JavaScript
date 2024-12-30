@@ -1,0 +1,8 @@
+################################################################################
+# SRM My own stuff to ignore.                                                  #
+
+# This is where I am developing stuff I don't want included in git activity.
+dev/
+
+#                                                                              #
+################################################################################
